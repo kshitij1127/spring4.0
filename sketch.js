@@ -1,6 +1,6 @@
 let particles = [];
 let springs = [];
-let spacing = 50;
+let spacing = 30;
 let k = 0.1;
 
 let gravity;
